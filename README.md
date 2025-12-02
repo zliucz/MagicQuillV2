@@ -38,10 +38,10 @@
 ## TODO List
 
 - [✅] Release the paper and project page.
-- [✅] Release the system.
+- [✅] Release the system with UI.
 - [✅] Release gradio demo on HuggingFace.
-- [ ] Release the batch inference code.
-- [ ] Release the training code.
+- Release the batch inference code.
+- Release the training code.
 
 ## Update Log
 
