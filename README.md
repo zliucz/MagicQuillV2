@@ -60,8 +60,8 @@ Our model is based on Flux Kontext, which is large and computationally intensive
 
 1.  **Clone the repository**
     ```bash
-    git clone --recursive https://github.com/magic-quill/MagicQuill-V2.git
-    cd MagicQuill-V2
+    git clone https://github.com/magic-quill/MagicQuillV2.git
+    cd MagicQuillV2
     ```
 
 2.  **Create environment**
