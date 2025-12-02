@@ -70,16 +70,16 @@ Our model is based on Flux Kontext, which is large and computationally intensive
     conda activate MagicQuillV2
     ```
 
-3.  **Download models**
+3.  **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4.  **Download models**
     Download the models from [Hugging Face](https://huggingface.co/LiuZichen/MagicQuillV2-models) and place them in the `models/` directory.
 
     ```bash
     huggingface-cli download LiuZichen/MagicQuillV2-models --local-dir models
-    ```
-
-4.  **Install dependencies**
-    ```bash
-    pip install -r requirements.txt
     ```
 
 5.  **Run the demo**
