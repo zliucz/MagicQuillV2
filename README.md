@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <video src="[./video.mp4](https://github.com/user-attachments/assets/58079152-7729-48ed-9bb4-0ddfd1873dd0)" width="100%" controls autoplay muted loop></video>
+  <video src="https://github.com/user-attachments/assets/58079152-7729-48ed-9bb4-0ddfd1873dd0" width="100%" controls autoplay muted loop></video>
 </div>
 
 <br>
