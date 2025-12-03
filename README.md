@@ -1,9 +1,9 @@
 # 🪶 MagicQuill V2: Precise and Interactive Image Editing with Layered Visual Cues
 
-  <a href="#"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg"></a>
+  <a href="https://magicquill.art/v2/"><img src="https://img.shields.io/static/v1?label=Project&message=magicquill.art/v2&color=blue"></a>
+  <a href="https://arxiv.org/abs/2512.03046"><img src="https://img.shields.io/badge/arxiv-2512.03046-b31b1b.svg"></a>
   <a href="https://huggingface.co/spaces/AI4Editing/MagicQuillV2"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue"></a>
-  <a href="#"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg"></a>
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg"></a>
 </div>
 
 <br>
