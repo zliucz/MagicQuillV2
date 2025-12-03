@@ -112,8 +112,8 @@ If you find MagicQuill V2 useful for your research, please cite our paper:
 ```bibtex
 @article{liu2025magicquillv2,
   title={MagicQuill V2: Precise and Interactive Image Editing with Layered Visual Cues},
-  author={Liu, Zichen and Yu, Yue and Ouyang, Hao and Wang, Qiuyu and Ma, Shuailei and Cheng, Ka Leong and Wang, Wen and Bai, Qingyan and Zhang, Yuxuan and Zeng, Yanhong and Li, Yixuan and Zhu, Xing and Shen, Yujun and Chen, Qifeng},
-  journal={arXiv preprint},
+  author={Zichen Liu, Yue Yu, Hao Ouyang, Qiuyu Wang, Shuailei Ma, Ka Leong Cheng, Wen Wang, Qingyan Bai, Yuxuan Zhang, Yanhong Zeng, Yixuan Li, Xing Zhu, Yujun Shen, Qifeng Chen},
+  journal={arXiv:2512.03046},
   year={2025}
 }
 ```
