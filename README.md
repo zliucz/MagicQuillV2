@@ -125,6 +125,7 @@ Our implementation builds upon several great open-source projects:
 - [ComfyUI](https://github.com/Xiaojiu-z/EasyControl)
 - [comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux)
 - [fabric.js](https://github.com/fabricjs/fabric.js)
+
 We thank the authors for their contributions.
 
 **License**: This repo is governed by the license of CC BY-NC 4.0. We strongly advise users not to knowingly generate or allow others to knowingly generate harmful content.
